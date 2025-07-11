@@ -1,8 +1,11 @@
 [package]
-author = "Azr43lKn1ght"
+author = "libalpm64"
 name = "Launcher"
 version = "0.1.0"
 edition = "2021"
+
+[lib]
+name = "rusty_pe_packer"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
